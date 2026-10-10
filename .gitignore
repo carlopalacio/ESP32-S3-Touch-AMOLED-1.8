@@ -11,3 +11,4 @@ releases/dist/
 releases/downloads/
 **/build/
 **/managed_components/
+.idea/
